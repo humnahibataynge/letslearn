@@ -1,2 +1,0 @@
-# letslearn
-for learning purpose
